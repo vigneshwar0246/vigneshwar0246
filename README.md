@@ -4,7 +4,7 @@
 
 ### 🤖 AI/ML ENGINEER • 💻 DEVELOPER • 🚀 BUILDER
 
-<img src="./profile1.png" width="230" alt="Vigneshwar Vicky">
+<img src="./vicky1.jpeg" width="230" alt="Vigneshwar Vicky">
 
 <br>
 
