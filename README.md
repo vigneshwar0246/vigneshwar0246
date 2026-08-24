@@ -2,7 +2,7 @@
 
 # 👋 HEY, I'M VIGNESHWAR VICKY
 
-### 🤖 AI/ML ENGINEER • 💻 DEVELOPER • 🚀 BUILDER
+### 🤖 AI / ML ENGINEER • 💻 DEVELOPER • 🚀 BUILDER
 
 <br>
 
@@ -10,13 +10,19 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2200&pause=700&color=FF5A1F&center=true&vCenter=true&width=900&lines=ARTIFICIAL+INTELLIGENCE;MACHINE+LEARNING;GENERATIVE+AI;COMPUTER+VISION;NATURAL+LANGUAGE+PROCESSING;FULL+STACK+DEVELOPER;BUILDING+JARVIS+AI;TURNING+IDEAS+INTO+REALITY" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2200&pause=700&color=FF5A1F&center=true&vCenter=true&width=900&lines=ARTIFICIAL+INTELLIGENCE;MACHINE+LEARNING;DEEP+LEARNING;GENERATIVE+AI;COMPUTER+VISION;NATURAL+LANGUAGE+PROCESSING;FULL+STACK+DEVELOPMENT;INTELLIGENT+SYSTEMS;BUILDING+JARVIS+AI;TURNING+IDEAS+INTO+REALITY" alt="Typing Animation">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF4500?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/GENERATIVE%20AI-FF5A1F?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-EF3B00?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/NLP-F04A00?style=for-the-badge&logo=googletranslate&logoColor=white">
 <img src="https://img.shields.io/badge/FULL%20STACK-FF6A00?style=for-the-badge&logo=react&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/INTELLIGENT%20SYSTEMS-FF7A00?style=for-the-badge">
 <img src="https://img.shields.io/badge/BUILDER-FF8C00?style=for-the-badge&logo=rocket&logoColor=white">
 
 </div>
@@ -34,7 +40,7 @@
 ║                                                              ║
 ║              ARTIFICIAL INTELLIGENCE                         ║
 ║                                                              ║
-║       🤖 AI        🧠 ML        ⚡ GEN AI        👁 CV       ║
+║      🤖 AI      🧠 ML      ⚡ GEN AI      👁 CV      🗣 NLP  ║
 ║                                                              ║
 ║                  STATUS : ONLINE                             ║
 ║                  MODE   : BUILD                              ║
@@ -51,13 +57,14 @@
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
 ```python
 class Vigneshwar:
 
     name = "Vigneshwar Vicky"
-    role = "AI / ML Developer"
+    role = "AI / ML Engineer"
 
     interests = [
         "Artificial Intelligence",
@@ -66,19 +73,29 @@ class Vigneshwar:
         "Generative AI",
         "Computer Vision",
         "NLP",
-        "Full Stack Development"
+        "Full Stack Development",
+        "Intelligent Systems"
     ]
 
     currently_building = [
         "JARVIS AI Assistant",
         "Health Vault",
-        "Digital Twin Systems",
-        "AI Applications"
+        "AI Digital Twin",
+        "AI-powered Applications"
     ]
+
+    core = {
+        "AI": "ACTIVE",
+        "ML": "ACTIVE",
+        "GEN_AI": "ACTIVE",
+        "VISION": "ACTIVE",
+        "NLP": "ACTIVE",
+        "BUILD_MODE": "ACTIVE"
+    }
 
     mindset = "Build → Break → Learn → Improve"
 
-    mission = "Build intelligent systems"
+    mission = "Build intelligent systems for the real world"
 ```
 
 </td>
@@ -103,13 +120,31 @@ class Vigneshwar:
 │      └──────┼──────┘       │
 │             ↓              │
 │        GEN AI CORE         │
+│             │              │
+│             ↓              │
+│      INTELLIGENT SYSTEMS   │
 │                            │
 └────────────────────────────┘
 ```
 
 </td>
+
 </tr>
 </table>
+
+---
+
+# 🎯 MY MISSION
+
+<div align="center">
+
+### `BUILD → BREAK → LEARN → IMPROVE`
+
+<br>
+
+> **Building intelligent systems that solve real-world problems.**
+
+</div>
 
 ---
 
@@ -127,7 +162,7 @@ class Vigneshwar:
 <img src="https://img.shields.io/badge/COMPUTER%20VISION-EF3B00?style=for-the-badge">
 <img src="https://img.shields.io/badge/NLP-F04A00?style=for-the-badge">
 <img src="https://img.shields.io/badge/FULL%20STACK-F56A00?style=for-the-badge">
-<img src="https://img.shields.io/badge/3D%20WEB-FF7A00?style=for-the-badge">
+<img src="https://img.shields.io/badge/INTELLIGENT%20SYSTEMS-FF7A00?style=for-the-badge">
 
 </div>
 
@@ -144,19 +179,20 @@ class Vigneshwar:
 
 ### Personal AI Desktop Assistant
 
-A local AI-powered assistant inspired by cinematic voice assistants.
+A local AI-powered desktop assistant inspired by cinematic intelligent voice assistants.
 
 **CORE**
 
 ```text
-🎙 Voice
+🎙 Voice Interaction
 🧠 Local AI
-👁 Vision
+👁 Computer Vision
 💻 Computer Control
 📁 File Control
 🔔 Notifications
 🧩 Workflows
 🧠 Memory
+⚡ Automation
 ```
 
 <a href="https://github.com/vigneshwar0246/HCL-JARVIS">
@@ -171,7 +207,7 @@ A local AI-powered assistant inspired by cinematic voice assistants.
 
 ### AI Medical Report Assistant
 
-An AI system designed to work with uploaded medical reports.
+An AI-powered system designed to work with uploaded medical reports and provide intelligent report-based interaction.
 
 **CORE**
 
@@ -179,9 +215,10 @@ An AI system designed to work with uploaded medical reports.
 📄 Report Analysis
 🔎 Semantic Search
 📊 Trend Analysis
-🔄 Comparison
+🔄 Report Comparison
 🧠 Embeddings
 💬 AI Assistant
+📚 Medical Knowledge
 ```
 
 <a href="https://github.com/vigneshwar0246/health_vault_chatbotnew">
@@ -200,7 +237,7 @@ An AI system designed to work with uploaded medical reports.
 
 ### Pneumatic Cylinder Health Monitoring
 
-AI-powered digital twin system for monitoring pneumatic cylinder health.
+AI-powered digital twin system for monitoring and predicting pneumatic cylinder health.
 
 **TECH**
 
@@ -210,6 +247,7 @@ Machine Learning
 Data Analysis
 Digital Twin
 Prediction
+Monitoring
 ```
 
 <a href="https://github.com/vigneshwar0246/AI-Digital-Twin-for-Pneumatic-Cylinder-Health-Monitoring">
@@ -224,7 +262,7 @@ Prediction
 
 ### Interactive Developer Portfolio
 
-A futuristic 3D portfolio experience.
+A futuristic 3D portfolio experience focused on interactive design and modern web technologies.
 
 **TECH**
 
@@ -234,6 +272,7 @@ Next.js
 Three.js
 3D UI
 Interactive Web
+Modern Frontend
 ```
 
 <a href="https://github.com/vigneshwar0246/PORTFOLIO-3d">
@@ -244,6 +283,37 @@ Interactive Web
 
 </tr>
 </table>
+
+---
+
+# 🧠 AI / ML FOCUS
+
+<div align="center">
+
+```text
+                    ┌───────────────────────┐
+                    │ ARTIFICIAL INTELLIGENCE│
+                    └───────────┬───────────┘
+                                │
+          ┌─────────────────────┼─────────────────────┐
+          ↓                     ↓                     ↓
+   ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
+   │ MACHINE     │       │ DEEP        │       │ GENERATIVE  │
+   │ LEARNING    │       │ LEARNING    │       │ AI          │
+   └──────┬──────┘       └──────┬──────┘       └──────┬──────┘
+          │                     │                     │
+          └─────────────────────┼─────────────────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │ INTELLIGENT SYSTEMS   │
+                    └───────────┬───────────┘
+                                │
+                 ┌──────────────┼──────────────┐
+                 ↓              ↓              ↓
+                NLP             CV          AUTOMATION
+```
+
+</div>
 
 ---
 
@@ -272,25 +342,25 @@ Interactive Web
 
 <div align="center">
 
-## PROGRAMMING
+## 💻 PROGRAMMING
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&theme=dark">
 
 <br><br>
 
-## AI / MACHINE LEARNING
+## 🧠 AI / MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark">
 
 <br><br>
 
-## WEB DEVELOPMENT
+## 🌐 WEB DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,html,css&theme=dark">
 
 <br><br>
 
-## DATABASE & TOOLS
+## 🗄️ DATABASE & TOOLS
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode&theme=dark">
 
@@ -336,6 +406,78 @@ Interactive Web
 
 ---
 
+# 🎯 CURRENTLY BUILDING
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖 JARVIS AI
+
+`VOICE`
+
+`VISION`
+
+`MEMORY`
+
+`AUTOMATION`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏥 HEALTH VAULT
+
+`RAG`
+
+`EMBEDDINGS`
+
+`SEARCH`
+
+`ANALYSIS`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏭 DIGITAL TWIN
+
+`AI`
+
+`SENSORS`
+
+`PREDICTION`
+
+`MONITORING`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 AI APPLICATIONS
+
+`GEN AI`
+
+`NLP`
+
+`CV`
+
+`AUTOMATION`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
 # 📊 GITHUB COMMAND CENTER
 
 <div align="center">
@@ -356,63 +498,23 @@ Interactive Web
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
 
-# 🎯 CURRENTLY BUILDING
+# 📈 GITHUB ACTIVITY
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshwar0246&theme=github_dark" width="100%" alt="GitHub Profile Details">
 
-<td align="center">
+<br><br>
 
-### 🤖 JARVIS AI
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vigneshwar0246&theme=github_dark" width="48%" alt="Repositories per Language">
 
-`VOICE`
-
-`VISION`
-
-`MEMORY`
-
-`AUTOMATION`
-
-</td>
-
-<td align="center">
-
-### 🏥 HEALTH VAULT
-
-`RAG`
-
-`EMBEDDINGS`
-
-`SEARCH`
-
-`ANALYSIS`
-
-</td>
-
-<td align="center">
-
-### 🏭 DIGITAL TWIN
-
-`AI`
-
-`SENSORS`
-
-`PREDICTION`
-
-`MONITORING`
-
-</td>
-
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vigneshwar0246&theme=github_dark" width="48%" alt="Most Commit Language">
 
 </div>
 
@@ -427,30 +529,72 @@ Interactive Web
 │                                                              │
 │  SYSTEM       : ONLINE                                       │
 │  MODE         : BUILD                                        │
+│  ROLE         : AI / ML ENGINEER                             │
 │  SPECIALITY   : ARTIFICIAL INTELLIGENCE                      │
 │  FOCUS        : MACHINE LEARNING                             │
+│  GEN AI       : ACTIVE                                       │
+│  COMPUTER VISION : ACTIVE                                    │
+│  NLP          : ACTIVE                                       │
 │  ENVIRONMENT  : FULL STACK                                   │
 │                                                              │
-│  CURRENT TASK : BUILDING THE FUTURE                          │
+│  CURRENT TASK : BUILDING INTELLIGENT SYSTEMS                 │
 │                                                              │
 │  ████████████████████████████████████████████████ 100%       │
+│                                                              │
+│  STATUS       : READY TO BUILD                              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 📈 GITHUB ACTIVITY
+# 🧬 VIGNESHWAR AI CORE
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshwar0246&theme=github_dark" width="100%">
+|            CORE            |   STATUS  |
+| :------------------------: | :-------: |
+| 🤖 Artificial Intelligence | 🟢 ACTIVE |
+|     🧠 Machine Learning    | 🟢 ACTIVE |
+|      🔥 Deep Learning      | 🟢 ACTIVE |
+|       ⚡ Generative AI      | 🟢 ACTIVE |
+|     👁 Computer Vision     | 🟢 ACTIVE |
+|           🗣 NLP           | 🟢 ACTIVE |
+|  💻 Full Stack Development | 🟢 ACTIVE |
+|   🧩 Intelligent Systems   | 🟢 ACTIVE |
+|        🚀 BUILD MODE       | 🟢 ACTIVE |
 
-<br><br>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vigneshwar0246&theme=github_dark" width="48%">
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vigneshwar0246&theme=github_dark" width="48%">
+# 💡 WHAT DRIVES ME
+
+<div align="center">
+
+```text
+I DON'T JUST LEARN TECHNOLOGY.
+
+        ↓
+
+I BUILD WITH IT.
+
+        ↓
+
+I BREAK IT.
+
+        ↓
+
+I UNDERSTAND IT.
+
+        ↓
+
+I IMPROVE IT.
+
+        ↓
+
+I BUILD SOMETHING BETTER.
+```
 
 </div>
 
@@ -474,12 +618,6 @@ Interactive Web
 
 <br><br>
 
-## 🔥 BUILDING INTELLIGENCE. CREATING IMPACT.
-
-### `CODE • CREATE • INNOVATE`
-
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=vigneshwar0246&label=PROFILE%20VIEWS&color=FF4500&style=for-the-badge">
 
 </div>
@@ -488,8 +626,16 @@ Interactive Web
 
 <div align="center">
 
-### ⭐ THANKS FOR VISITING MY PROFILE
+# 🔥 BUILDING INTELLIGENCE. CREATING IMPACT.
 
-**AI • ML • GENERATIVE AI • FULL STACK**
+### `CODE • CREATE • INNOVATE`
+
+<br>
+
+### 🤖 AI • 🧠 ML • ⚡ GENERATIVE AI • 👁 COMPUTER VISION • 🗣 NLP • 💻 FULL STACK
+
+<br>
+
+### ⭐ THANKS FOR VISITING MY PROFILE
 
 </div>
