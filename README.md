@@ -4,50 +4,23 @@
 
 ### 🤖 AI / ML ENGINEER • 💻 DEVELOPER • 🚀 BUILDER
 
+**Building intelligent systems that solve real-world problems.**
+
 <br>
 
 <img src="./git.png" width="600" alt="Vigneshwar Vicky">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2200&pause=700&color=FF5A1F&center=true&vCenter=true&width=900&lines=ARTIFICIAL+INTELLIGENCE;MACHINE+LEARNING;DEEP+LEARNING;GENERATIVE+AI;COMPUTER+VISION;NATURAL+LANGUAGE+PROCESSING;FULL+STACK+DEVELOPMENT;INTELLIGENT+SYSTEMS;BUILDING+JARVIS+AI;TURNING+IDEAS+INTO+REALITY" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2200&pause=700&color=FF5A1F&center=true&vCenter=true&width=950&lines=ARTIFICIAL+INTELLIGENCE;MACHINE+LEARNING;DEEP+LEARNING;GENERATIVE+AI;COMPUTER+VISION;NATURAL+LANGUAGE+PROCESSING;FULL+STACK+DEVELOPMENT;INTELLIGENT+SYSTEMS;BUILDING+JARVIS+AI;TURNING+IDEAS+INTO+REALITY" alt="Typing Animation">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF4500?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/GENERATIVE%20AI-FF5A1F?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-EF3B00?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/NLP-F04A00?style=for-the-badge&logo=googletranslate&logoColor=white">
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-EF3B00?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-F04A00?style=for-the-badge">
 <img src="https://img.shields.io/badge/FULL%20STACK-FF6A00?style=for-the-badge&logo=react&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/INTELLIGENT%20SYSTEMS-FF7A00?style=for-the-badge">
-<img src="https://img.shields.io/badge/BUILDER-FF8C00?style=for-the-badge&logo=rocket&logoColor=white">
-
-</div>
-
----
-
-<div align="center">
-
-## 🔴 SYSTEM ONLINE
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                     VIGNESHWAR AI                            ║
-║                                                              ║
-║              ARTIFICIAL INTELLIGENCE                         ║
-║                                                              ║
-║      🤖 AI      🧠 ML      ⚡ GEN AI      👁 CV      🗣 NLP  ║
-║                                                              ║
-║                  STATUS : ONLINE                             ║
-║                  MODE   : BUILD                              ║
-║                  CORE   : ACTIVE                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -55,77 +28,55 @@
 
 # 🧠 ABOUT ME
 
+<div align="center">
+
+### I'm an AI / ML Engineer passionate about building intelligent software.
+
+</div>
+
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-```python
-class Vigneshwar:
+### 🤖 What I Do
 
-    name = "Vigneshwar Vicky"
-    role = "AI / ML Engineer"
+I work across **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP, and Full Stack Development.**
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Deep Learning",
-        "Generative AI",
-        "Computer Vision",
-        "NLP",
-        "Full Stack Development",
-        "Intelligent Systems"
-    ]
+My focus is not only on experimenting with models, but on turning AI ideas into **usable, intelligent applications**.
 
-    currently_building = [
-        "JARVIS AI Assistant",
-        "Health Vault",
-        "AI Digital Twin",
-        "AI-powered Applications"
-    ]
+<br>
 
-    core = {
-        "AI": "ACTIVE",
-        "ML": "ACTIVE",
-        "GEN_AI": "ACTIVE",
-        "VISION": "ACTIVE",
-        "NLP": "ACTIVE",
-        "BUILD_MODE": "ACTIVE"
-    }
+### 🎯 My Focus
 
-    mindset = "Build → Break → Learn → Improve"
-
-    mission = "Build intelligent systems for the real world"
-```
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Computer Vision
+* Natural Language Processing
+* Intelligent Automation
+* Full Stack AI Applications
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ DEVELOPER CORE
+### 🚀 What I'm Building
 
-```text
-┌────────────────────────────┐
-│                            │
-│       VIGNESHWAR AI        │
-│                            │
-│  ┌──────────────────────┐  │
-│  │       AI CORE        │  │
-│  └──────────────────────┘  │
-│             │              │
-│      ┌──────┼──────┐       │
-│      ↓      ↓      ↓       │
-│     ML     NLP     CV      │
-│      │      │      │       │
-│      └──────┼──────┘       │
-│             ↓              │
-│        GEN AI CORE         │
-│             │              │
-│             ↓              │
-│      INTELLIGENT SYSTEMS   │
-│                            │
-└────────────────────────────┘
-```
+Currently exploring and building:
+
+**🤖 JARVIS AI Assistant**
+A personal AI desktop assistant with voice, vision, memory and automation.
+
+**🏥 Health Vault**
+An AI-powered medical report analysis and retrieval system.
+
+**🏭 AI Digital Twin**
+An intelligent monitoring and prediction system for pneumatic equipment.
+
+**🧠 AI Applications**
+Experimenting with practical AI systems that connect models with real-world software.
 
 </td>
 
@@ -134,35 +85,97 @@ class Vigneshwar:
 
 ---
 
-# 🎯 MY MISSION
-
 <div align="center">
+
+## ⚡ BUILD MINDSET
 
 ### `BUILD → BREAK → LEARN → IMPROVE`
 
 <br>
 
-> **Building intelligent systems that solve real-world problems.**
+**Research → Experiment → Build → Test → Deploy → Improve**
 
 </div>
 
 ---
 
-# ⚡ WHAT I BUILD
+# 🔴 AI CORE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-FF4500?style=for-the-badge">
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF4F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-FF5A1F?style=for-the-badge">
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-FF6A00?style=for-the-badge">
+<table>
 
-<br><br>
+<tr>
 
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-EF3B00?style=for-the-badge">
-<img src="https://img.shields.io/badge/NLP-F04A00?style=for-the-badge">
-<img src="https://img.shields.io/badge/FULL%20STACK-F56A00?style=for-the-badge">
-<img src="https://img.shields.io/badge/INTELLIGENT%20SYSTEMS-FF7A00?style=for-the-badge">
+<td align="center" width="16%">
+
+### 🤖
+
+**AI**
+
+Artificial
+Intelligence
+
+</td>
+
+<td align="center" width="16%">
+
+### 🧠
+
+**ML**
+
+Machine
+Learning
+
+</td>
+
+<td align="center" width="16%">
+
+### 🔥
+
+**DL**
+
+Deep
+Learning
+
+</td>
+
+<td align="center" width="16%">
+
+### ⚡
+
+**GEN AI**
+
+Generative
+AI
+
+</td>
+
+<td align="center" width="16%">
+
+### 👁️
+
+**CV**
+
+Computer
+Vision
+
+</td>
+
+<td align="center" width="16%">
+
+### 🗣️
+
+**NLP**
+
+Language
+Intelligence
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -179,24 +192,24 @@ class Vigneshwar:
 
 ### Personal AI Desktop Assistant
 
-A local AI-powered desktop assistant inspired by cinematic intelligent voice assistants.
+A local AI-powered desktop assistant inspired by cinematic intelligent assistants.
 
-**CORE**
+### Capabilities
 
-```text
-🎙 Voice Interaction
+🎙️ Voice Interaction
 🧠 Local AI
-👁 Computer Vision
+👁️ Computer Vision
 💻 Computer Control
-📁 File Control
+📁 File Management
 🔔 Notifications
 🧩 Workflows
 🧠 Memory
 ⚡ Automation
-```
+
+<br>
 
 <a href="https://github.com/vigneshwar0246/HCL-JARVIS">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-FF4500?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF4500?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -207,22 +220,22 @@ A local AI-powered desktop assistant inspired by cinematic intelligent voice ass
 
 ### AI Medical Report Assistant
 
-An AI-powered system designed to work with uploaded medical reports and provide intelligent report-based interaction.
+An intelligent system designed to analyze uploaded medical reports and provide report-focused AI assistance.
 
-**CORE**
+### Capabilities
 
-```text
 📄 Report Analysis
 🔎 Semantic Search
 📊 Trend Analysis
 🔄 Report Comparison
 🧠 Embeddings
 💬 AI Assistant
-📚 Medical Knowledge
-```
+📚 Medical Information Retrieval
+
+<br>
 
 <a href="https://github.com/vigneshwar0246/health_vault_chatbotnew">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-FF5A1F?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF5A1F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -237,21 +250,21 @@ An AI-powered system designed to work with uploaded medical reports and provide 
 
 ### Pneumatic Cylinder Health Monitoring
 
-AI-powered digital twin system for monitoring and predicting pneumatic cylinder health.
+An AI-powered digital twin system focused on monitoring and predicting pneumatic cylinder health.
 
-**TECH**
+### Technologies
 
-```text
-Python
-Machine Learning
-Data Analysis
-Digital Twin
-Prediction
-Monitoring
-```
+🐍 Python
+🧠 Machine Learning
+📊 Data Analysis
+🏭 Digital Twin
+📈 Prediction
+⚙️ Monitoring
+
+<br>
 
 <a href="https://github.com/vigneshwar0246/AI-Digital-Twin-for-Pneumatic-Cylinder-Health-Monitoring">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-FF6A00?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6A00?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -262,21 +275,21 @@ Monitoring
 
 ### Interactive Developer Portfolio
 
-A futuristic 3D portfolio experience focused on interactive design and modern web technologies.
+A futuristic interactive portfolio combining modern web technologies with 3D experiences.
 
-**TECH**
+### Technologies
 
-```text
-React
-Next.js
-Three.js
-3D UI
-Interactive Web
-Modern Frontend
-```
+⚛️ React
+▲ Next.js
+🎮 Three.js
+🧊 3D UI
+✨ Interactive Web
+🎨 Modern Frontend
+
+<br>
 
 <a href="https://github.com/vigneshwar0246/PORTFOLIO-3d">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-FF7A00?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF7A00?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -286,83 +299,99 @@ Modern Frontend
 
 ---
 
-# 🧠 AI / ML FOCUS
-
-<div align="center">
-
-```text
-                    ┌───────────────────────┐
-                    │ ARTIFICIAL INTELLIGENCE│
-                    └───────────┬───────────┘
-                                │
-          ┌─────────────────────┼─────────────────────┐
-          ↓                     ↓                     ↓
-   ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
-   │ MACHINE     │       │ DEEP        │       │ GENERATIVE  │
-   │ LEARNING    │       │ LEARNING    │       │ AI          │
-   └──────┬──────┘       └──────┬──────┘       └──────┬──────┘
-          │                     │                     │
-          └─────────────────────┼─────────────────────┘
-                                ↓
-                    ┌───────────────────────┐
-                    │ INTELLIGENT SYSTEMS   │
-                    └───────────┬───────────┘
-                                │
-                 ┌──────────────┼──────────────┐
-                 ↓              ↓              ↓
-                NLP             CV          AUTOMATION
-```
-
-</div>
-
----
-
-# 🧊 3D DEVELOPER CORE
-
-<div align="center">
-
-```text
-                         ╔══════════════════════╗
-                      ╔══╝                      ╚══╗
-                   ╔══╝      VIGNESHWAR AI       ╚══╗
-                ╔══╝                                ╚══╗
-             ╔══╝       ARTIFICIAL INTELLIGENCE       ╚══╗
-          ╔══╝                                            ╚══╗
-       ╔══╝          🤖       🧠       ⚡       👁          ╚══╗
-    ╔══╝                                                    ╚══╗
- ╔══╝          MACHINE LEARNING • GENERATIVE AI               ╚══╗
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 # 🛠️ TECHNOLOGY STACK
 
 <div align="center">
 
-## 💻 PROGRAMMING
+### 💻 PROGRAMMING
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&theme=dark">
 
 <br><br>
 
-## 🧠 AI / MACHINE LEARNING
+### 🧠 AI / MACHINE LEARNING
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark">
 
 <br><br>
 
-## 🌐 WEB DEVELOPMENT
+### 🌐 WEB DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,html,css&theme=dark">
 
 <br><br>
 
-## 🗄️ DATABASE & TOOLS
+### 🗄️ DATABASES & DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode&theme=dark">
+
+</div>
+
+---
+
+# 🧩 AI DEVELOPMENT AREAS
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+## 🤖
+
+### AI ENGINEERING
+
+Intelligent Systems
+AI Applications
+Automation
+AI Assistants
+
+</td>
+
+<td align="center" width="25%">
+
+## 🧠
+
+### MACHINE LEARNING
+
+Classification
+Prediction
+Feature Engineering
+Model Development
+
+</td>
+
+<td align="center" width="25%">
+
+## ⚡
+
+### GENERATIVE AI
+
+LLMs
+RAG
+Embeddings
+AI Agents
+
+</td>
+
+<td align="center" width="25%">
+
+## 👁️
+
+### AI VISION
+
+Computer Vision
+Image Processing
+Visual Intelligence
+Vision Systems
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -372,35 +401,19 @@ Modern Frontend
 
 <div align="center">
 
-```text
-                 ┌───────────────┐
-                 │     IDEA      │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │   RESEARCH    │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │   DESIGN AI   │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     CODE      │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     TEST      │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    DEPLOY     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    IMPROVE    │
-                 └───────────────┘
-```
+<img src="https://img.shields.io/badge/01%20IDEA-FF4500?style=for-the-badge">
+→
+<img src="https://img.shields.io/badge/02%20RESEARCH-FF4F00?style=for-the-badge">
+→
+<img src="https://img.shields.io/badge/03%20DESIGN-FF5A1F?style=for-the-badge">
+→
+<img src="https://img.shields.io/badge/04%20BUILD-FF6A00?style=for-the-badge">
+→
+<img src="https://img.shields.io/badge/05%20TEST-FF7A00?style=for-the-badge">
+→
+<img src="https://img.shields.io/badge/06%20DEPLOY-FF8C00?style=for-the-badge">
+→
+<img src="https://img.shields.io/badge/07%20IMPROVE-FF4500?style=for-the-badge">
 
 </div>
 
@@ -416,57 +429,65 @@ Modern Frontend
 
 <td align="center" width="25%">
 
-### 🤖 JARVIS AI
+# 🤖
 
-`VOICE`
+### JARVIS AI
 
-`VISION`
+**VOICE**
 
-`MEMORY`
+**VISION**
 
-`AUTOMATION`
+**MEMORY**
 
-</td>
-
-<td align="center" width="25%">
-
-### 🏥 HEALTH VAULT
-
-`RAG`
-
-`EMBEDDINGS`
-
-`SEARCH`
-
-`ANALYSIS`
+**AUTOMATION**
 
 </td>
 
 <td align="center" width="25%">
 
-### 🏭 DIGITAL TWIN
+# 🏥
 
-`AI`
+### HEALTH VAULT
 
-`SENSORS`
+**RAG**
 
-`PREDICTION`
+**EMBEDDINGS**
 
-`MONITORING`
+**SEARCH**
+
+**ANALYSIS**
 
 </td>
 
 <td align="center" width="25%">
 
-### 🧠 AI APPLICATIONS
+# 🏭
 
-`GEN AI`
+### DIGITAL TWIN
 
-`NLP`
+**AI**
 
-`CV`
+**SENSORS**
 
-`AUTOMATION`
+**PREDICTION**
+
+**MONITORING**
+
+</td>
+
+<td align="center" width="25%">
+
+# 🧠
+
+### AI APPLICATIONS
+
+**GEN AI**
+
+**NLP**
+
+**VISION**
+
+**AUTOMATION**
 
 </td>
 
@@ -520,86 +541,6 @@ Modern Frontend
 
 ---
 
-# 🔴 SYSTEM TERMINAL
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ VIGNESHWAR@AI:~$ ./profile                                  │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  SYSTEM       : ONLINE                                       │
-│  MODE         : BUILD                                        │
-│  ROLE         : AI / ML ENGINEER                             │
-│  SPECIALITY   : ARTIFICIAL INTELLIGENCE                      │
-│  FOCUS        : MACHINE LEARNING                             │
-│  GEN AI       : ACTIVE                                       │
-│  COMPUTER VISION : ACTIVE                                    │
-│  NLP          : ACTIVE                                       │
-│  ENVIRONMENT  : FULL STACK                                   │
-│                                                              │
-│  CURRENT TASK : BUILDING INTELLIGENT SYSTEMS                 │
-│                                                              │
-│  ████████████████████████████████████████████████ 100%       │
-│                                                              │
-│  STATUS       : READY TO BUILD                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🧬 VIGNESHWAR AI CORE
-
-<div align="center">
-
-|            CORE            |   STATUS  |
-| :------------------------: | :-------: |
-| 🤖 Artificial Intelligence | 🟢 ACTIVE |
-|     🧠 Machine Learning    | 🟢 ACTIVE |
-|      🔥 Deep Learning      | 🟢 ACTIVE |
-|       ⚡ Generative AI      | 🟢 ACTIVE |
-|     👁 Computer Vision     | 🟢 ACTIVE |
-|           🗣 NLP           | 🟢 ACTIVE |
-|  💻 Full Stack Development | 🟢 ACTIVE |
-|   🧩 Intelligent Systems   | 🟢 ACTIVE |
-|        🚀 BUILD MODE       | 🟢 ACTIVE |
-
-</div>
-
----
-
-# 💡 WHAT DRIVES ME
-
-<div align="center">
-
-```text
-I DON'T JUST LEARN TECHNOLOGY.
-
-        ↓
-
-I BUILD WITH IT.
-
-        ↓
-
-I BREAK IT.
-
-        ↓
-
-I UNDERSTAND IT.
-
-        ↓
-
-I IMPROVE IT.
-
-        ↓
-
-I BUILD SOMETHING BETTER.
-```
-
-</div>
-
----
-
 # 🌐 CONNECT WITH ME
 
 <div align="center">
@@ -632,10 +573,10 @@ I BUILD SOMETHING BETTER.
 
 <br>
 
-### 🤖 AI • 🧠 ML • ⚡ GENERATIVE AI • 👁 COMPUTER VISION • 🗣 NLP • 💻 FULL STACK
+### 🤖 AI • 🧠 ML • ⚡ GENERATIVE AI • 👁️ COMPUTER VISION • 🗣️ NLP • 💻 FULL STACK
 
-<br>
+<br><br>
 
-### ⭐ THANKS FOR VISITING MY PROFILE
+**⭐ Thanks for visiting my profile!**
 
 </div>
