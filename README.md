@@ -9,7 +9,7 @@
 <br>
 
 <!-- YOUR ANIMATED PHOTO -->
-<img src="./git.gif" width="600" alt="Vigneshwar Vicky">
+<img src="./git1.gif" width="600" alt="Vigneshwar Vicky">
 
 <br><br>
 
