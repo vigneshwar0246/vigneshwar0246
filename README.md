@@ -3,12 +3,13 @@
 # 👋 HEY, I'M VIGNESHWAR VICKY
 
 ### 🤖 AI / ML ENGINEER • 💻 DEVELOPER • 🚀 BUILDER
-  
+
 **Building intelligent systems that solve real-world problems.**
 
 <br>
 
-<img src="./git.png" width="600" alt="Vigneshwar Vicky">
+<!-- YOUR ANIMATED PHOTO -->
+<img src="./vigneshwar.gif" width="600" alt="Vigneshwar Vicky">
 
 <br><br>
 
@@ -49,14 +50,14 @@ My focus is not only on experimenting with models, but on turning AI ideas into 
 
 ### 🎯 My Focus
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Computer Vision
-* Natural Language Processing
-* Intelligent Automation
-* Full Stack AI Applications
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Computer Vision
+- Natural Language Processing
+- Intelligent Automation
+- Full Stack AI Applications
 
 </td>
 
@@ -64,18 +65,20 @@ My focus is not only on experimenting with models, but on turning AI ideas into 
 
 ### 🚀 What I'm Building
 
-Currently exploring and building:
-
 **🤖 JARVIS AI Assistant**
+
 A personal AI desktop assistant with voice, vision, memory and automation.
 
 **🏥 Health Vault**
+
 An AI-powered medical report analysis and retrieval system.
 
 **🏭 AI Digital Twin**
+
 An intelligent monitoring and prediction system for pneumatic equipment.
 
 **🧠 AI Applications**
+
 Experimenting with practical AI systems that connect models with real-world software.
 
 </td>
@@ -113,7 +116,7 @@ Experimenting with practical AI systems that connect models with real-world soft
 
 **AI**
 
-Artificial
+Artificial  
 Intelligence
 
 </td>
@@ -124,7 +127,7 @@ Intelligence
 
 **ML**
 
-Machine
+Machine  
 Learning
 
 </td>
@@ -135,7 +138,7 @@ Learning
 
 **DL**
 
-Deep
+Deep  
 Learning
 
 </td>
@@ -146,7 +149,7 @@ Learning
 
 **GEN AI**
 
-Generative
+Generative  
 AI
 
 </td>
@@ -157,7 +160,7 @@ AI
 
 **CV**
 
-Computer
+Computer  
 Vision
 
 </td>
@@ -168,7 +171,7 @@ Vision
 
 **NLP**
 
-Language
+Language  
 Intelligence
 
 </td>
@@ -196,20 +199,22 @@ A local AI-powered desktop assistant inspired by cinematic intelligent assistant
 
 ### Capabilities
 
-🎙️ Voice Interaction
-🧠 Local AI
-👁️ Computer Vision
-💻 Computer Control
-📁 File Management
-🔔 Notifications
-🧩 Workflows
-🧠 Memory
-⚡ Automation
+- 🎙️ Voice Interaction
+- 🧠 Local AI
+- 👁️ Computer Vision
+- 💻 Computer Control
+- 📁 File Management
+- 🔔 Notifications
+- 🧩 Workflows
+- 🧠 Memory
+- ⚡ Automation
 
 <br>
 
 <a href="https://github.com/vigneshwar0246/HCL-JARVIS">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF4500?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -224,18 +229,20 @@ An intelligent system designed to analyze uploaded medical reports and provide r
 
 ### Capabilities
 
-📄 Report Analysis
-🔎 Semantic Search
-📊 Trend Analysis
-🔄 Report Comparison
-🧠 Embeddings
-💬 AI Assistant
-📚 Medical Information Retrieval
+- 📄 Report Analysis
+- 🔎 Semantic Search
+- 📊 Trend Analysis
+- 🔄 Report Comparison
+- 🧠 Embeddings
+- 💬 AI Assistant
+- 📚 Medical Information Retrieval
 
 <br>
 
 <a href="https://github.com/vigneshwar0246/health_vault_chatbotnew">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF5A1F?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -254,17 +261,19 @@ An AI-powered digital twin system focused on monitoring and predicting pneumatic
 
 ### Technologies
 
-🐍 Python
-🧠 Machine Learning
-📊 Data Analysis
-🏭 Digital Twin
-📈 Prediction
-⚙️ Monitoring
+- 🐍 Python
+- 🧠 Machine Learning
+- 📊 Data Analysis
+- 🏭 Digital Twin
+- 📈 Prediction
+- ⚙️ Monitoring
 
 <br>
 
 <a href="https://github.com/vigneshwar0246/AI-Digital-Twin-for-Pneumatic-Cylinder-Health-Monitoring">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6A00?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -279,22 +288,25 @@ A futuristic interactive portfolio combining modern web technologies with 3D exp
 
 ### Technologies
 
-⚛️ React
-▲ Next.js
-🎮 Three.js
-🧊 3D UI
-✨ Interactive Web
-🎨 Modern Frontend
+- ⚛️ React
+- ▲ Next.js
+- 🎮 Three.js
+- 🧊 3D UI
+- ✨ Interactive Web
+- 🎨 Modern Frontend
 
 <br>
 
 <a href="https://github.com/vigneshwar0246/PORTFOLIO-3d">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF7A00?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -343,9 +355,9 @@ A futuristic interactive portfolio combining modern web technologies with 3D exp
 
 ### AI ENGINEERING
 
-Intelligent Systems
-AI Applications
-Automation
+Intelligent Systems  
+AI Applications  
+Automation  
 AI Assistants
 
 </td>
@@ -356,9 +368,9 @@ AI Assistants
 
 ### MACHINE LEARNING
 
-Classification
-Prediction
-Feature Engineering
+Classification  
+Prediction  
+Feature Engineering  
 Model Development
 
 </td>
@@ -369,9 +381,9 @@ Model Development
 
 ### GENERATIVE AI
 
-LLMs
-RAG
-Embeddings
+LLMs  
+RAG  
+Embeddings  
 AI Agents
 
 </td>
@@ -382,9 +394,9 @@ AI Agents
 
 ### AI VISION
 
-Computer Vision
-Image Processing
-Visual Intelligence
+Computer Vision  
+Image Processing  
+Visual Intelligence  
 Vision Systems
 
 </td>
