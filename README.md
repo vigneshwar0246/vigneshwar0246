@@ -1,284 +1,288 @@
-<!--
-  THEME: "ARC REACTOR HUD"
-  Background  #0D1117   |  Primary  #FF5A1F (reactor orange)
-  Accent      #00E5FF   |  Text     #C9D1D9
-  Keep these 4 colors everywhere so the whole profile feels like one system.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF5A1F,100:00E5FF&height=260&section=header&text=VIGNESHWAR%20VICKY&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20DIGITAL%20TWIN%20BUILDER&descAlignY=60&descSize=18" width="100%" alt="header">
+# 👋 HEY, I'M VIGNESHWAR VICKY
 
-<img src="./git.gif" width="420" alt="Vigneshwar Vicky">
+### 🤖 AI / ML ENGINEER • 💻 FULL STACK DEVELOPER • 🚀 BUILDER
+
+**I build AI systems you can actually run, click and use: voice assistants, medical-report analyzers, and digital twins for machines.**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2400&pause=800&color=FF5A1F&center=true&vCenter=true&width=950&height=50&lines=%3E+INITIALIZING+VICKY.OS+...;%3E+BUILDING+J.A.R.V.I.S+%E2%80%94+VOICE+%2B+RAG+%2B+3D+HUD;%3E+TWINNING+AIRCRAFT+ENGINES+%26+PNEUMATIC+CYLINDERS;%3E+TEACHING+MEDICAL+RECORDS+TO+THINK;%3E+SHIPPING+AI+THAT+ACTUALLY+RUNS" alt="Typing">
+<img src="./git.gif" width="600" alt="Vigneshwar Vicky">
 
 <br><br>
 
-<!-- ===== STICKER WALL ===== -->
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/MODE-AI%20ENGINEER-FF5A1F?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/REPOS-19-FF5A1F?style=for-the-badge&labelColor=0D1117&logo=github">
-<img src="https://img.shields.io/badge/PULL%20SHARK-UNLOCKED-00E5FF?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/YOLO-UNLOCKED-FF5A1F?style=for-the-badge&labelColor=0D1117">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2200&pause=700&color=FF5A1F&center=true&vCenter=true&width=950&lines=BUILDING+JARVIS+%E2%80%94+AI+HR+RECRUITER+%26+VOICE+ASSISTANT;HEALTH+HUB+CONNECT+%E2%80%94+AI+MEDICAL+RECORDS;AERION+%E2%80%94+AIRCRAFT+ENGINE+DIGITAL+TWIN;PNEUMATIC+CYLINDER+PREDICTIVE+MAINTENANCE;TAMIL+HERITAGE+%E2%80%94+CINEMATIC+WEB+EXPERIENCE;TURNING+IDEAS+INTO+WORKING+SOFTWARE" alt="Typing Animation">
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/-JARVIS-0D1117?style=flat-square&logo=openai&logoColor=FF5A1F">
-<img src="https://img.shields.io/badge/-DIGITAL%20TWINS-0D1117?style=flat-square&logo=probot&logoColor=00E5FF">
-<img src="https://img.shields.io/badge/-RAG-0D1117?style=flat-square&logo=databricks&logoColor=FF5A1F">
-<img src="https://img.shields.io/badge/-PREDICTIVE%20MAINTENANCE-0D1117?style=flat-square&logo=scikitlearn&logoColor=00E5FF">
-<img src="https://img.shields.io/badge/-3D%20WEB-0D1117?style=flat-square&logo=threedotjs&logoColor=FF5A1F">
-<img src="https://img.shields.io/badge/-OPEN%20TO%20COLLABS-0D1117?style=flat-square&logo=handshake&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-FF4500?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/DIGITAL%20TWINS-FF5A1F?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG%20%26%20LLMs-EF3B00?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/FASTAPI-F04A00?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/REACT%20%2B%20THREE.JS-FF6A00?style=for-the-badge&logo=react&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PUBLIC%20REPOS-19-120000?style=flat-square&labelColor=FF4500">
+<img src="https://img.shields.io/badge/STARS%20EARNED-3-120000?style=flat-square&labelColor=FF5A1F">
+<img src="https://img.shields.io/badge/ACHIEVEMENT-PULL%20SHARK-120000?style=flat-square&labelColor=FF6A00">
+<img src="https://img.shields.io/badge/ACHIEVEMENT-YOLO-120000?style=flat-square&labelColor=FF7A00">
 
 </div>
 
-<br>
-
 ---
 
-## 🧬 `whoami`
+# 🧠 ABOUT ME
 
-```ts
-const vicky = {
-  role:      "AI / ML Engineer & Full Stack Developer",
-  obsession: ["digital twins", "RAG", "voice interfaces", "3D dashboards"],
-  builds:    "AI that ships: backend + frontend + a real use case",
-  philosophy: "Build → Break → Learn → Improve",
-  honesty:   "I label simulated data as simulated and failed gates as failed",
-  currently: "AERION: an aircraft-engine digital twin ✈️",
-  funFact:   "My JARVIS says 'At your service, sir.' and means it",
-};
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I'm an **AI / ML engineer and full-stack developer** who likes shipping complete systems rather than isolated notebooks.
+
+Every project below has a real **backend, a real frontend, and a real use case**:
+
+- 🎙️ A **voice-controlled JARVIS** that answers questions from PDFs you upload
+- 🏥 A **medical records platform** that reads lab reports with OCR + Gemini
+- ✈️ An **aircraft-engine digital twin** with physics, ML diagnostics and a 3D dashboard
+- 🏭 A **predictive-maintenance twin** for pneumatic cylinders
+- 🏛️ A **bilingual, scroll-driven cinematic website** on Tamil heritage
+
+I'm also honest about my results. My digital-twin repos clearly label what is simulated, what is research-only, and what fails its own validation gates. 🔬
+
+</td>
+<td width="45%" valign="top">
+
+### ⚡ Build Loop
+
+```text
+IDEA → RESEARCH → PROTOTYPE
+  ↑                    ↓
+IMPROVE ← DEPLOY ← TEST & BREAK
 ```
 
+### 🎯 Core Areas
+
+- 🤖 AI Assistants & Automation
+- 🔎 RAG, Embeddings & Semantic Search
+- 🏭 Digital Twins & Predictive Maintenance
+- 📊 Applied Machine Learning (scikit-learn)
+- 🌐 Full Stack (React, Next.js, FastAPI, Node)
+- 🎮 3D Web UI (Three.js / React Three Fiber)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎛️ MISSION CONTROL — Featured Projects
+# 🚀 FEATURED PROJECTS
 
-<div align="center">
+## 🤖 J.A.R.V.I.S. — AI HR Recruiter & Cognitive Assistant
 
-<a href="https://github.com/vigneshwar0246/HCL-JARVIS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwar0246&repo=HCL-JARVIS&bg_color=0D1117&title_color=FF5A1F&text_color=C9D1D9&icon_color=00E5FF&border_color=FF5A1F&border_radius=14" width="48%">
-</a>
-<a href="https://github.com/vigneshwar0246/health-vault">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwar0246&repo=health-vault&bg_color=0D1117&title_color=FF5A1F&text_color=C9D1D9&icon_color=00E5FF&border_color=FF5A1F&border_radius=14" width="48%">
-</a>
+> A JARVIS-themed recruitment assistant with a **3D holographic reactor core**, hands-free voice interaction and a **PDF-powered RAG knowledge base**.
 
-<a href="https://github.com/vigneshwar0246/Digital-twin-for-UAV-Drone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwar0246&repo=Digital-twin-for-UAV-Drone&bg_color=0D1117&title_color=FF5A1F&text_color=C9D1D9&icon_color=00E5FF&border_color=FF5A1F&border_radius=14" width="48%">
-</a>
-<a href="https://github.com/vigneshwar0246/AI-Digital-Twin-for-Pneumatic-Cylinder-Health-Monitoring">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwar0246&repo=AI-Digital-Twin-for-Pneumatic-Cylinder-Health-Monitoring&bg_color=0D1117&title_color=FF5A1F&text_color=C9D1D9&icon_color=00E5FF&border_color=FF5A1F&border_radius=14" width="48%">
-</a>
+| | |
+|---|---|
+| 🎙️ **Voice** | Wake word "Jarvis" → *"At your service, sir."* Continuous speech recognition with auto-submit on pause |
+| 🔊 **Speech output** | British-English text-to-speech via the Web Speech Synthesis API |
+| 📄 **RAG** | Upload resumes, policies or job guidelines. `pdfplumber` parses them, chunks them and indexes them into a **TF-IDF vector space in real time** |
+| 🎯 **Recruiter tools** | One-click candidate screening, resume breakdown, interview-question and job-description generation |
+| 🦾 **3D HUD** | Custom GLSL shaders, orbiting tech rings and particles that react to mic audio level |
+| 🛡️ **Security** | API keys isolated in `.env`, excluded from version control |
 
-<a href="https://github.com/vigneshwar0246/tamil-mandram-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwar0246&repo=tamil-mandram-&bg_color=0D1117&title_color=FF5A1F&text_color=C9D1D9&icon_color=00E5FF&border_color=FF5A1F&border_radius=14" width="48%">
-</a>
-<a href="https://github.com/vigneshwar0246/Graph-Based-Virus-Spread-Simulation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwar0246&repo=Graph-Based-Virus-Spread-Simulation&bg_color=0D1117&title_color=FF5A1F&text_color=C9D1D9&icon_color=00E5FF&border_color=FF5A1F&border_radius=14" width="48%">
-</a>
+**Stack:** `FastAPI` · `OpenRouter LLM` · `scikit-learn (TF-IDF)` · `pdfplumber` · `React` · `Three.js / R3F` · `TailwindCSS v4` · `Vite`
 
-</div>
+<a href="https://github.com/vigneshwar0246/HCL-JARVIS"><img src="https://img.shields.io/badge/VIEW%20PROJECT-FF4500?style=for-the-badge&logo=github&logoColor=white"></a>
 
-<br>
+---
 
-<details>
-<summary><b>🤖 &nbsp;J.A.R.V.I.S. — AI HR Recruiter & Cognitive Assistant</b> &nbsp;<sub>(click to expand)</sub></summary>
+## 🏥 HEALTH HUB CONNECT — AI Digital Health Records
 
-<br>
+> A full-stack platform where patients store, organise and **analyse medical records with AI**.
 
-> A JARVIS-themed recruitment assistant with a **3D holographic reactor core**, hands-free voice control and a **PDF-powered RAG knowledge base**.
+- 📤 Upload lab results, prescriptions and scans, with **OCR (Tesseract.js) + PDF parsing**
+- 🧠 **Google Gemini** chatbot and **smart report summarisation**
+- 📊 Health dashboard with vitals, appointments and activity charts
+- 💊 Medication reminders · 👨‍👩‍👧 family profiles · 📄 PDF health-summary export
+- 🔐 JWT auth, Bcrypt hashing, Google login, activity logging
+- ⚙️ Background worker so heavy AI jobs never block the UI
 
-| Module | What it does |
-|:--|:--|
-| 🎙️ **Voice** | Say "Jarvis" → *"At your service, sir."* Continuous recognition, auto-submit on pause |
-| 🔊 **TTS** | British-English synthesis through the Web Speech API |
-| 📄 **RAG** | `pdfplumber` → semantic chunks → **live TF-IDF index** of resumes, policies, job guidelines |
-| 🎯 **Recruiter tools** | Candidate screening, resume breakdown, interview questions, JD generation |
-| 🦾 **3D HUD** | Three.js / R3F reactor core, custom GLSL shaders, particles reacting to mic level |
-| 🛡️ **Security** | Keys isolated in `.env`, excluded from git |
+**Stack:** `React` · `Vite` · `TypeScript` · `Tailwind` · `shadcn/ui` · `TanStack Query` · `Recharts` · `Node.js` · `Express` · `MongoDB` · `Gemini`
 
-`FastAPI` `OpenRouter` `scikit-learn` `pdfplumber` `React` `Three.js` `Tailwind v4` `Vite`
+<a href="https://github.com/vigneshwar0246/health-vault"><img src="https://img.shields.io/badge/VIEW%20PROJECT-FF5A1F?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/vigneshwar0246/health_vault_chatbot"><img src="https://img.shields.io/badge/EARLY%20CHATBOT%20VERSION-120000?style=for-the-badge&logo=github&logoColor=white"></a>
 
-</details>
+---
 
-<details>
-<summary><b>🏥 &nbsp;HEALTH HUB CONNECT — AI Digital Health Records</b></summary>
+## ✈️ AERION / AERO-TWIN — Aircraft Engine Digital Twin 🔥 *latest*
 
-<br>
-
-> Patients upload, organise and **analyse their medical records with AI**.
-
-- 📤 **OCR (Tesseract.js) + PDF parsing** for lab results, prescriptions and scans
-- 🧠 **Google Gemini** chatbot and smart report summarisation
-- 📊 Vitals dashboard · 💊 medication reminders · 👨‍👩‍👧 family profiles · 📄 PDF export
-- 🔐 JWT, Bcrypt, Google login, activity logging
-- ⚙️ Background worker keeps heavy AI jobs off the UI thread
-
-`React` `Vite` `TypeScript` `shadcn/ui` `TanStack Query` `Recharts` `Node` `Express` `MongoDB` `Gemini`
-
-</details>
-
-<details>
-<summary><b>✈️ &nbsp;AERION / AERO-TWIN — Aircraft Engine Digital Twin</b> &nbsp;🔥 <sub>latest</sub></summary>
-
-<br>
-
-> A local **research demonstrator**: simulated telemetry → validated ingestion → physics diagnostics → optional ML → 3D dashboard.
+> A local **research demonstrator** combining simulated engine telemetry, validated ingestion, physics-based diagnostics, an optional ML fault classifier and a 3D dashboard.
 
 ```mermaid
 flowchart LR
-  S[Mission simulator] --> I[FastAPI ingestion]
+  S[Mission simulator / telemetry] --> I[FastAPI ingestion]
   I --> T[Twin state + sensor quality]
-  T --> P[Physics diagnostics]
+  T --> P[Physics + engineering diagnostics]
   T --> M[Optional ML classifier]
-  P --> D[(SQLite)]
+  P --> D[(SQLite history)]
   M --> D
-  D --> R[Replay + reports]
-  I --> U[React / Three.js UI]
+  D --> R[Replay + mission reports]
+  I --> U[React / Three.js dashboard]
 ```
 
-- 🧪 Two research classifiers, including a 9-class fault model that **openly fails its own 0.80 recall gate**
-- 🔁 Recorded mission replay · bounded diagnostic history · SQLite schema v4
-- ✅ CI, independent audit, **118 backend + 7 browser acceptance tests** at last record
-- 🧾 Every score labelled *simulated / uncalibrated, not flight-certified*
+- 🧪 **Two separate research classifiers**: a 9-class fault model, which is *openly documented as failing* its 0.80 per-fault recall gate, and a 10-class scenario classifier (≈95% on synthetic data)
+- 🔁 Recorded **mission replay**, bounded diagnostic history, SQLite schema v4
+- ✅ CI workflow, independent audit, **118 backend + 7 browser acceptance tests** passing at last record
+- 🧾 Strong engineering honesty: every score is labelled *uncalibrated / simulated, not flight-certified*
 
-`Python 3.13` `FastAPI` `scikit-learn` `SQLite` `React` `Three.js` `GitHub Actions`
+**Stack:** `Python 3.13` · `FastAPI` · `scikit-learn` · `SQLite` · `React` · `Three.js` · `GitHub Actions`
 
-</details>
-
-<details>
-<summary><b>🏭 &nbsp;PNEUMATIC CYLINDER DIGITAL TWIN — Predictive Maintenance</b></summary>
-
-<br>
-
-- 📡 Live sensors: pressure, temperature, position, speed, flow, vibration, load, cycles
-- 🧠 **23 engineered features** → classifier for `Healthy · Air Leakage · Pressure Drop · Seal Wear · Valve Sticking`
-- ❤️ Experimental health regressor + **RUL** (only when a real decline trend exists)
-- 🔌 REST + **WebSocket** APIs · MQTT · SQLite history
-- 🐳 Docker · Compose · Nginx · advisory-only, never drives hardware
-
-`Python` `FastAPI` `NumPy` `Pandas` `scikit-learn` `React` `MQTT` `Docker`
-
-</details>
-
-<details>
-<summary><b>🏛️ &nbsp;TAMIL HERITAGE — Cinematic Bilingual Website</b> &nbsp;🌐 <sub>live</sub></summary>
-
-<br>
-
-> Image-rich, **bilingual** exploration of Tamil culture with a scroll-driven cinematic intro, auto-deployed to Vercel.
-
-[**▶ Open the live site**](https://tamil-mandram-tau.vercel.app)
-
-`Next.js` `TypeScript` `Tailwind` `E2E tests` `Vercel`
-
-</details>
+<a href="https://github.com/vigneshwar0246/Digital-twin-for-UAV-Drone"><img src="https://img.shields.io/badge/VIEW%20PROJECT-EF3B00?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
-## 🧩 SKILL TREE
+## 🏭 AI DIGITAL TWIN — Pneumatic Cylinder Health Monitoring
 
-<div align="center">
+> Predictive maintenance for industrial automation: a live twin of a pneumatic cylinder driven by simulated sensors and ML.
 
-<img src="https://skillicons.dev/icons?i=python,c,ts,js,html,css&theme=dark" height="48"><br><br>
-<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,fastapi,nodejs,express&theme=dark" height="48"><br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" height="48"><br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,docker,nginx,githubactions,vercel,git,github,vscode&theme=dark" height="48">
+- 📡 Live simulation of **pressure, temperature, position, speed, flow, vibration, load, cycle count**
+- 🧠 **23 engineered features** → fault classifier for `Healthy · Air Leakage · Pressure Drop · Seal Wear · Valve Sticking`
+- ❤️ Experimental **health-score regressor** + **Remaining Useful Life** (only when a real declining trend exists)
+- 🔌 REST **and WebSocket** APIs, MQTT support, SQLite prediction history
+- 🐳 Docker · Docker Compose · Nginx deployment
+- 🛡️ Advisory output only; it never operates hardware
 
-</div>
+**Stack:** `Python` · `FastAPI` · `NumPy` · `Pandas` · `scikit-learn` · `React` · `Vite` · `MQTT` · `Docker`
 
-```mermaid
-mindmap
-  root((VICKY))
-    AI and ML
-      RAG
-      Embeddings
-      Anomaly detection
-      RUL prediction
-      Gemini and OpenRouter
-    Digital Twins
-      Aircraft engines
-      Pneumatic cylinders
-      Replay and diagnostics
-    Full Stack
-      React and Next.js
-      FastAPI and Node
-      Three.js HUDs
-    Engineering
-      Docker and CI
-      Testing
-      Honest evaluation
-```
+<a href="https://github.com/vigneshwar0246/AI-Digital-Twin-for-Pneumatic-Cylinder-Health-Monitoring"><img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6A00?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
-## 🏆 TROPHY CASE
+## 🏛️ TAMIL HERITAGE — Cinematic Bilingual Website 🌐 *live*
+
+> An image-rich, **bilingual exploration of Tamil culture** with a scroll-driven cinematic introduction.
+
+- 🎬 Scroll-driven video intro, with a global language and entry-state context
+- 🗂️ Category-organised heritage imagery and culture entries
+- 🧪 Chrome end-to-end tests with desktop + mobile screenshots
+- 🚀 Auto-deployed from `main` to Vercel
+
+**Stack:** `Next.js` · `TypeScript` · `Tailwind` · `E2E browser tests` · `Vercel`
+
+<a href="https://tamil-mandram-tau.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/vigneshwar0246/tamil-mandram-"><img src="https://img.shields.io/badge/SOURCE-120000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+---
+
+## 🦠 Graph-Based Virus Spread Simulation
+
+> A **C** project that simulates infection spread across a network using **graphs and BFS**. It shows my data-structures and algorithms foundation.
+
+<a href="https://github.com/vigneshwar0246/Graph-Based-Virus-Spread-Simulation"><img src="https://img.shields.io/badge/VIEW%20PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=white"></a>
+
+---
+
+# 🛠️ TECH STACK *(from my actual repos)*
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vigneshwar0246&theme=gruvbox&no-frame=true&margin-w=12&column=7&row=1" alt="Trophies">
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=python,c,ts,js,html,css&theme=dark">
+
+**🧠 AI / ML / Data**
+
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas&theme=dark">
+
+**🌐 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark">
+
+**⚙️ Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,sqlite&theme=dark">
+
+**🚢 DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,vercel,git,github,vscode&theme=dark">
 
 </div>
 
 ---
 
-## 📡 TELEMETRY — Live GitHub Stats
+# 🔥 WHAT I'M WORKING ON NOW
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshwar0246&show_icons=true&bg_color=0D1117&title_color=FF5A1F&text_color=C9D1D9&icon_color=00E5FF&border_color=FF5A1F&border_radius=14&rank_icon=github" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwar0246&layout=donut-vertical&langs_count=6&bg_color=0D1117&title_color=FF5A1F&text_color=C9D1D9&border_color=FF5A1F&border_radius=14" width="49%">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=vigneshwar0246&background=0D1117&ring=FF5A1F&fire=00E5FF&currStreakNum=FFFFFF&currStreakLabel=FF5A1F&sideNums=FFFFFF&sideLabels=00E5FF&dates=8B949E&border=FF5A1F&stroke=30363D&hide_border=false" width="80%">
-
-</div>
+| 🎯 Focus | 📌 Status |
+|---|---|
+| ✈️ **AERION** engine twin: calibration, replay and validation gates | 🟢 Actively developing (most recent commits) |
+| 🤖 **JARVIS**: richer recruiter workflows on top of the RAG engine | 🟡 Iterating |
+| 🏥 **Health Hub Connect**: deeper report analysis and trends | 🟡 Iterating |
+| 🏭 **Pneumatic twin**: real IoT sensors / ESP32, LSTM, Grafana, edge AI | 🔵 Roadmap |
 
 ---
 
-## 📅 CONTRIBUTION SIGNAL
+# 📊 GITHUB STATS
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/FF5A1F/vigneshwar0246" width="100%" alt="Contribution calendar">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshwar0246&bg_color=0D1117&color=FF5A1F&line=FF5A1F&point=00E5FF&area=true&area_color=FF5A1F&hide_border=true&radius=14" width="100%" alt="Activity graph">
-
-</div>
-
----
-
-## 🔭 ROADMAP
-
-| | Mission | Status |
-|:-:|:--|:-:|
-| ✈️ | **AERION**: calibration, replay, validation gates | ![](https://img.shields.io/badge/-ACTIVE-00E5FF?style=flat-square&labelColor=0D1117) |
-| 🤖 | **JARVIS**: richer recruiter workflows on the RAG core | ![](https://img.shields.io/badge/-ITERATING-FF5A1F?style=flat-square&labelColor=0D1117) |
-| 🏥 | **Health Hub**: deeper report analysis and trends | ![](https://img.shields.io/badge/-ITERATING-FF5A1F?style=flat-square&labelColor=0D1117) |
-| 🏭 | **Pneumatic twin**: real ESP32 sensors, LSTM, Grafana, edge AI | ![](https://img.shields.io/badge/-PLANNED-8B949E?style=flat-square&labelColor=0D1117) |
-
----
-
-<div align="center">
-
-### 📬 COMMS CHANNEL
-
-<a href="https://github.com/vigneshwar0246"><img src="https://img.shields.io/badge/GITHUB-vigneshwar0246-0D1117?style=for-the-badge&logo=github&logoColor=FF5A1F&labelColor=0D1117&color=FF5A1F"></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=00E5FF"></a>
-<a href="https://tamil-mandram-tau.vercel.app"><img src="https://img.shields.io/badge/LIVE-TAMIL%20HERITAGE-0D1117?style=for-the-badge&logo=vercel&logoColor=FF5A1F&labelColor=0D1117&color=FF5A1F"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=vigneshwar0246&show_icons=true&theme=dark&hide_border=true&title_color=FF5A1F&icon_color=FF7A00&text_color=FFFFFF&bg_color=120000&count_private=true" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwar0246&layout=compact&theme=dark&hide_border=true&title_color=FF5A1F&text_color=FFFFFF&bg_color=120000&langs_count=8" width="49%">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vigneshwar0246&label=VISITORS&color=FF5A1F&labelColor=0D1117&style=for-the-badge">
+<img src="https://streak-stats.demolab.com?user=vigneshwar0246&theme=dark&hide_border=true&ring=FF4500&fire=FF7A00&currStreakLabel=FF6A00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF5A1F&dates=AAAAAA&background=120000" width="70%">
 
-<br>
+</div>
 
-<sub>`BUILD → BREAK → LEARN → IMPROVE`</sub>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF5A1F,100:FF4500&height=140&section=footer&reversal=true" width="100%" alt="footer">
+# 📅 MY REAL CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/FF5A1F/vigneshwar0246" width="100%" alt="vigneshwar0246's GitHub contribution chart">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshwar0246&bg_color=120000&color=FF7A00&line=FF4500&point=FFFFFF&area=true&area_color=FF4500&hide_border=true&title_color=FF5A1F" width="100%" alt="Contribution activity graph">
+
+</div>
+
+---
+
+# 📈 PROFILE SUMMARY
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshwar0246&theme=github_dark" width="100%" alt="Profile details">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vigneshwar0246&theme=github_dark" width="48%" alt="Repos per language">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vigneshwar0246&theme=github_dark" width="48%" alt="Most commit language">
+
+</div>
+
+---
+
+# 🌐 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/vigneshwar0246"><img src="https://img.shields.io/badge/GITHUB-120000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-FF4500?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://tamil-mandram-tau.vercel.app"><img src="https://img.shields.io/badge/LIVE%20PROJECT-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vigneshwar0246&label=PROFILE%20VIEWS&color=FF4500&style=for-the-badge">
+
+<br><br>
+
+### `BUILD → BREAK → LEARN → IMPROVE`
+
+**⭐ Thanks for visiting. If something here is useful, drop a star.**
 
 </div>
