@@ -1,16 +1,14 @@
-<img width="1983" height="793" alt="Vigneshwar AI Engineer Cyberpunk Dashboard" src="https://github.com/user-attachments/assets/542300c5-7c20-4930-9f74-ba81a0be958e" />
-<div align="center">
 
-# 👋 HEY, I'M VIGNESHWAR T
+
+# I'M VIGNESHWAR T
 
 ### 🤖 AI / ML ENGINEER • 💻 FULL STACK DEVELOPER • 🚀 BUILDER
 
 **I build AI systems you can actually run, click and use: voice assistants, medical-report analyzers, and digital twins for machines.**
 
 <br>
-
-
-
+<img width="1983" height="793" alt="Vigneshwar AI Engineer Cyberpunk Dashboard" src="https://github.com/user-attachments/assets/542300c5-7c20-4930-9f74-ba81a0be958e" />
+<div align="center">
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2200&pause=700&color=FF5A1F&center=true&vCenter=true&width=950&lines=BUILDING+JARVIS+%E2%80%94+AI+HR+RECRUITER+%26+VOICE+ASSISTANT;HEALTH+HUB+CONNECT+%E2%80%94+AI+MEDICAL+RECORDS;AERION+%E2%80%94+AIRCRAFT+ENGINE+DIGITAL+TWIN;PNEUMATIC+CYLINDER+PREDICTIVE+MAINTENANCE;TAMIL+HERITAGE+%E2%80%94+CINEMATIC+WEB+EXPERIENCE;TURNING+IDEAS+INTO+WORKING+SOFTWARE" alt="Typing Animation">
