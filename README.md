@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 HEY, I'M VIGNESHWAR VICKY
+# 👋 HEY, I'M VIGNESHWAR T
 
 ### 🤖 AI / ML ENGINEER • 💻 FULL STACK DEVELOPER • 🚀 BUILDER
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./git.gif" width="600" alt="Vigneshwar Vicky">
+
 
 <br><br>
 
