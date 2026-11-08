@@ -224,10 +224,6 @@ flowchart LR
 # 📊 GITHUB STATS
 
 <div align="center">
-
-username=vigneshwar0246&show_icons=true&theme=dark&hide_border=true&title_color=FF5A1F&icon_color=FF7A00&text_color=FFFFFF&bg_color=120000&count_private=true" width="49%">
-username=vigneshwar0246&layout=compact&theme=dark&hide_border=true&title_color=FF5A1F&text_color=FFFFFF&bg_color=120000&langs_count=8" width="49%">
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=vigneshwar0246&theme=dark&hide_border=true&ring=FF4500&fire=FF7A00&currStreakLabel=FF6A00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF5A1F&dates=AAAAAA&background=120000" width="70%">
