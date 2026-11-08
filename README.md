@@ -1,5 +1,4 @@
 
-
 # I'M VIGNESHWAR T
 
 ### 🤖 AI / ML ENGINEER • 💻 FULL STACK DEVELOPER • 🚀 BUILDER
@@ -226,8 +225,8 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshwar0246&show_icons=true&theme=dark&hide_border=true&title_color=FF5A1F&icon_color=FF7A00&text_color=FFFFFF&bg_color=120000&count_private=true" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwar0246&layout=compact&theme=dark&hide_border=true&title_color=FF5A1F&text_color=FFFFFF&bg_color=120000&langs_count=8" width="49%">
+username=vigneshwar0246&show_icons=true&theme=dark&hide_border=true&title_color=FF5A1F&icon_color=FF7A00&text_color=FFFFFF&bg_color=120000&count_private=true" width="49%">
+username=vigneshwar0246&layout=compact&theme=dark&hide_border=true&title_color=FF5A1F&text_color=FFFFFF&bg_color=120000&langs_count=8" width="49%">
 
 <br><br>
 
@@ -239,7 +238,6 @@ flowchart LR
 ## 🐟 My GitHub Koi
 
 <img src="koi/koi.gif" width="256" alt="My GitHub koi" />
----
 
 # 📅 MY REAL CONTRIBUTIONS
 
